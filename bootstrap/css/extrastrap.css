@@ -1,13 +1,13 @@
 .navbar-default {
-  background-color: #0066FF;
+  background-color: #0099FF;
   border-color: #e7e7e7;
 }
 .navbar-default .navbar-brand {
-  color: #000000;
+  color: #FFFFFF;
 }
 .navbar-default .navbar-nav li>a
 {
-	color:#000000;
+	color:#FFFFFF;
 }
 #CAT
 {
@@ -15,5 +15,5 @@
 }
 .jumbotron
 {
-	background-color:#999999;
+	background-color:#66CCFF;
 }

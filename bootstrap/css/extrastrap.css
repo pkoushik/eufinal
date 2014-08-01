@@ -9,11 +9,25 @@
 {
 	color:#000000;
 }
-#CAT
-{
-	padding-left:90px;
-}
 .jumbotron
 {
-	background-color:#999999;
+	background-color:#C2EBFF;
+}
+
+.jumbotron {
+	padding: 15px;
+	margin-bottom: 30px;
+	color: inherit;
+}
+
+.jumbotron h2 {
+    font-size: 50px;
+    font-family: "GatsbyFLF-Bold", sans-serif;
+ }
+
+.jumbotron p {  
+	font-family: 'Corbert', sans-serif;
+	margin-bottom: 15px;
+	font-size: 18px;
+	font-weight: 700;
 }

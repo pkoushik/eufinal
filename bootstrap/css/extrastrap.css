@@ -1,0 +1,19 @@
+.navbar-default {
+  background-color: #0066FF;
+  border-color: #e7e7e7;
+}
+.navbar-default .navbar-brand {
+  color: #000000;
+}
+.navbar-default .navbar-nav li>a
+{
+	color:#000000;
+}
+#CAT
+{
+	padding-left:90px;
+}
+.jumbotron
+{
+	background-color:#999999;
+}
